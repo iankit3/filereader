@@ -5,7 +5,7 @@ class Sidebar extends React.Component {
         return (
             <div className="col-md-2 sidebar" style={{"padding": "0"}}>
                <ul className="brand_logo">
-                   MUSK
+                   Brand
                </ul>
                <ul className="client_logo">
                    ADMIN
